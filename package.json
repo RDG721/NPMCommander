@@ -1,0 +1,34 @@
+{
+    "name": "npm-commander",
+    "version": "1.0.0",
+    "description": "Universal NPM Project Runner for macOS",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder --mac"
+    },
+    "build": {
+        "appId": "com.twisted.npmcommander",
+        "productName": "NPM Commander",
+        "mac": {
+            "category": "public.app-category.developer-tools",
+            "icon": "assets/npm-logo.icns",
+            "target": [
+                "dir"
+            ]
+        },
+        "files": [
+            "main.js",
+            "preload.js",
+            "renderer/**/*",
+            "assets/**/*"
+        ],
+        "directories": {
+            "output": "dist"
+        }
+    },
+    "devDependencies": {
+        "electron": "^28.0.0",
+        "electron-builder": "^24.9.1"
+    }
+}
